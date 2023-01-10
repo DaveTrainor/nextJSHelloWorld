@@ -1,3 +1,6 @@
+Progress:
+https://www.youtube.com/watch?v=f-6GAntaum4&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH&index=6
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
